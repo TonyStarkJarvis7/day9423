@@ -1,2 +1,3 @@
 1. This is f1. created at 7:04am
-2. edit being made in git hub directly at 7.07.
+2. Edit being made in git hub directly at 7.07.
+3. Changes being made to use stash at 7:11.
